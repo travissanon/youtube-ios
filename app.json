@@ -1,0 +1,12 @@
+{
+  "name": "youtube-ios",
+  "displayName": "youtube-ios",
+  "expo": {
+    "name": "youtube-ios",
+    "slug": "youtube-ios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
